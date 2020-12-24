@@ -13,7 +13,7 @@
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            🎯  <code>eCommerce Site</code> is a web application build with MERN atcak and redux
+            🎯  <code>eCommerce Site</code> is a web application build with MERN stack and redux
         </td>
     </tr>
     <tr>
