@@ -86,7 +86,7 @@ npm install
 - You can see all the products listed
 - Click on product to view and byt the product
 - Click on the `cart` button to view your products that you have been added
-- Add address and apy using PayPal
+- Add address and pay using PayPal
 
 
 ## Instructions for Admin
