@@ -13,12 +13,12 @@
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            🎯  <code>eCommerce Site</code> is a web application build with MERN stack and redux
+            🎯  <code>eCommerce Site</code> is a MERN stack web application 
         </td>
     </tr>
     <tr>
         <td>
-            Hers is the demo of <a href='https://mernecommercev2.herokuapp.com/'>eCommerce Site</a>.
+            Hers is the demo of <a href='https://merncommerceshop.herokuapp.com/'>eCommerce Site</a>.
         </td>
    
 </table>
